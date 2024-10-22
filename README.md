@@ -1,4 +1,4 @@
-# Reduce Toolkit 
+# Redux Toolkit 
 
 Task manager 
 
